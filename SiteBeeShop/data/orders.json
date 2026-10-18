@@ -1,0 +1,90 @@
+[
+    {
+        "id": "ord_6ad37e43215d83.28734902",
+        "user": "skymachine177@gmail.com",
+        "items": [
+            {
+                "id": 2,
+                "name": "Улей Дадан",
+                "price": 4800,
+                "icon": "🏠",
+                "qty": 1
+            }
+        ],
+        "delivery": "pickup",
+        "address": "",
+        "phone": "89888567319",
+        "total": 4800,
+        "created": "2026-10-17T15:55:15+02:00",
+        "status": "new"
+    },
+    {
+        "id": "ord_6ad3837e66c695.25249789",
+        "user": "skymachine177@gmail.com",
+        "items": [
+            {
+                "id": 2,
+                "name": "Улей Дадан",
+                "price": 4800,
+                "icon": "🏠",
+                "qty": 1
+            },
+            {
+                "id": 5,
+                "name": "Костюм пчеловода",
+                "price": 3100,
+                "icon": "👕",
+                "qty": 1
+            }
+        ],
+        "delivery": "post",
+        "address": "Павлова 8",
+        "phone": "79888567319",
+        "total": 8250,
+        "created": "2026-10-17T16:17:34+02:00",
+        "status": "new"
+    },
+    {
+        "id": "ord_6ad387a842e1a6.06591254",
+        "user": "skymachine177@gmail.com",
+        "recipient": "Маил Джалилов",
+        "items": [
+            {
+                "id": 2,
+                "name": "Улей Дадан",
+                "price": 4800,
+                "icon": "🏠",
+                "qty": 1
+            },
+            {
+                "id": 5,
+                "name": "Костюм пчеловода",
+                "price": 3100,
+                "icon": "👕",
+                "qty": 1
+            },
+            {
+                "id": 1,
+                "name": "Мёд цветочный",
+                "price": 650,
+                "icon": "🍯",
+                "image": "",
+                "qty": 1
+            },
+            {
+                "id": 7,
+                "name": "Рамки для улья",
+                "price": 850,
+                "icon": "📦",
+                "image": "",
+                "qty": 1
+            }
+        ],
+        "delivery": "courier",
+        "address": "Большой город",
+        "phone": "79888567319",
+        "total": 9650,
+        "created": "2026-10-17T16:35:20+02:00",
+        "status": "new"
+    }
+]

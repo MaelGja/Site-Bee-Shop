@@ -1,0 +1,15 @@
+{
+    "admin@bee-shop.ru": {
+        "name": "Администратор",
+        "email": "admin@bee-shop.ru",
+        "password": "$2y$10$90Mj8wJmhpeDok.nVdp7luqqskqW.W\/TDG.jrgS1Hv\/D9fFdNtRUa",
+        "is_admin": true,
+        "created": "2026-10-17T16:14:26+02:00"
+    },
+    "skymachine177@gmail.com": {
+        "name": "Maxys Dj",
+        "email": "skymachine177@gmail.com",
+        "password": "$2y$10$DklJ3uC2QUkBBwwHWYQ58eiaqVRk2mFBmeY9SmfT7i3IPfXYGa9xu",
+        "created": "2026-10-17T16:14:26+02:00"
+    }
+}
